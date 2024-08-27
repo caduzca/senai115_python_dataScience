@@ -1,5 +1,5 @@
 # Python para Data Science
-Autores : Carlos Eduardo
+Autores : Carlos Eduardo Dos Santos
 
 Versão: 1
 
